@@ -21,7 +21,7 @@
 			 	'<b>Фамилия: </b>' . $row['surname'] . '<br>' .
 			 	'<b>Почта: </b>' . $row['email'] . '<br></p>';
 		}
-
+//============================ sql =====================
 		// while($row = $query->fetch(PDO::FETCH_ASSOC)) {
 		// 	echo '<h1>' . $row['login'] . '</h1>
 		// 		<p><b>Email: </b>' . $row['email'] . '</p>
