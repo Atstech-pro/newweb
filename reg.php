@@ -2,9 +2,9 @@
 <html lang="ru">
 <head>
 	<?php
-		$website_title = 'PHP Blog';
-		require 'blocks/head.php';
-	?>
+    $website_title = 'Регистрация';
+    require 'blocks/head.php';
+  ?>
 </head>
 <body>
 	<?php require 'blocks/header.php'; ?>
@@ -12,7 +12,7 @@
 	<main class="container mt-5">
 		<div class="row">
 			<div class="col-md-8">
-				Основная часть сайта
+				Registration
 			</div>
 
 			<?php require 'blocks/aside.php'; ?>
